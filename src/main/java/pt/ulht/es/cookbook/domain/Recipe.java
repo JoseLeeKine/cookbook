@@ -13,7 +13,7 @@ public class Recipe extends Recipe_Base {
         setTag(tag);
         setCreationTimestamp(new DateTime());
         setCookbookManager(CookbookManager.getInstance());
-        
+        //  commit do Lee
     }
     
 }
